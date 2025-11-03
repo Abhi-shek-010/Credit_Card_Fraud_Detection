@@ -57,7 +57,7 @@ weighted avg     0.9995    0.9995    0.9995     56962
 
 1. Clone the repository:
 ```bash
-git clone (https://github.com/yourusername/Credit_Card_Fraud_Detection.git)
+git clone https://github.com/Abhi-shek-010/Credit_Card_Fraud_Detection.git
 cd Credit_Card_Fraud_Detection
 ```
 
